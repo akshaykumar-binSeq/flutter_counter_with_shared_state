@@ -19,7 +19,7 @@ CounterDisplay: A descendant widget that displays the current counter value.
 
 CounterIncrement: A descendant widget that provides a button to increment the counter.
 
-MyApp: The main application widget that initializes the InheritedCounter and constructs the widget tree.
+MyApp: The main application widget that initializes the InheritedWrapper and constructs the widget tree.
 
 # Inherited Widgets Overview
 Definition and Purpose
