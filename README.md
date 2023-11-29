@@ -13,7 +13,7 @@ Rebuilding Widgets: The updateShouldNotify method which we override in Inherited
 # Structure of the Project
 InheritedCounter: The Inherited Widget responsible for holding the shared counter state. 
 
-InheritedWrapper: It is responsible for holding the shared counter state.  It includes the updateCounter method to modify the counter.
+InheritedWrapper: It is responsible for holding the counter state.  It includes the updateCounter method to modify the counter.
 
 CounterDisplay: A descendant widget that displays the current counter value.
 
